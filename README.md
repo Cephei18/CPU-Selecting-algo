@@ -140,4 +140,5 @@ P1,0,1
 P2,2,2
 P3,4,3
 
-Now open visualize.py file and compile to see graph.
+
+
